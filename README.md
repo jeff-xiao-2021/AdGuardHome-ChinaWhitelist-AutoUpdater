@@ -10,7 +10,7 @@
 > 我实际的访问地址为: [http://192.168.99.9:3000](http://192.168.99.9:3000)
 
 ### update_china_white_list_sh
-> 自动更新[https://adguard.yojigen.tech/ChinaWhiteList.txt](ChinaWhitelist)，保存到ChinaWhitelist.txt文件中。
+> 自动更新[ChinaWhitelist](https://adguard.yojigen.tech/ChinaWhiteList.txt)，保存到ChinaWhitelist.txt文件中。
 
 ## 去广告规则
 ### HalfLifeList
