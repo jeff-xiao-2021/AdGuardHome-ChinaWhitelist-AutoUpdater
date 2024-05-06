@@ -26,4 +26,4 @@
 > 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 
 ## 友情链接
-> [uproxypool](https://www.uproxypool.com)，一个自动采集公开免费的代理并实时清洗的免费代理池。
+> [www.uproxypool.com](https://www.uproxypool.com)一个自动采集公开免费的代理并实时清洗的免费代理池。
