@@ -1,1 +1,2 @@
 # AdGuardHome-ChinaWhitelist-AutoUpdater
+项目提供如何安装AdGuardHome、如何设置AdGuardHome域名解析策略以及ChinaWhitelist自动更新策略。
