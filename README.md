@@ -12,7 +12,7 @@
 > 管理端默认地址为操作系统内网IP，默认端口为3000。
 > 我实际的访问地址为: [http://192.168.99.9:3000](http://192.168.99.9:3000)
 
-### update_china_white_list_sh
+### auto_update_china_white_list.sh
 > 自动更新[ChinaWhitelist](https://adguard.yojigen.tech/ChinaWhiteList.txt)，保存到ChinaWhitelist.txt文件中。
 
 ## 去广告规则
