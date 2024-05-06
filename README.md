@@ -6,3 +6,12 @@
 ### install.sh
 
 
+## 去广告规则
+### HalfLifeList
+[https://github.com/o0HalfLife0o/list](https://github.com/o0HalfLife0o/list)
+> 合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则
+
+### AntiAD
+
+[https://github.com/privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
+> 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
