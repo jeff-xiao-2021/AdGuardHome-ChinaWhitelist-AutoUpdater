@@ -3,6 +3,9 @@
 因为导入了ChinaWhitelist白名单数据，不建议在内存太小的机器上运行。
 我实际部署在CentOS7系统上(并没有部署在Docker上)，系统内存为4G, 内网IP为： 192.168.99.9。
 
+## 安装说明
+请参看我的博客:
+
 ## 文件说明
 ### install.sh
 > AdGuardHome安装脚本
@@ -21,3 +24,6 @@
 
 [https://github.com/privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 > 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+
+## 友情链接
+> [uproxypool](https://www.uproxypool.com)，一个自动采集公开免费的代理并实时清洗的免费代理池。
