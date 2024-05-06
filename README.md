@@ -1,10 +1,13 @@
 # AdGuardHome-ChinaWhitelist-AutoUpdater
 本项目提供如何安装AdGuardHome、如何设置AdGuardHome域名解析策略以及ChinaWhitelist自动更新策略。
-因为导入了ChinaWhitelist白名单数据，不建议在内存太小的机器上运行。我实际部署在CentOS7系统上(并没有部署在Docker上)，系统内存为4G, 内网IP为： 192.168.99.9。
+因为导入了ChinaWhitelist白名单数据，不建议在内存太小的机器上运行。
+我实际部署在CentOS7系统上(并没有部署在Docker上)，系统内存为4G, 内网IP为： 192.168.99.9。
 
 ## 文件说明
 ### install.sh
-> AdGuardHome安装脚本，管理端默认地址为操作系统内网IP，默认端口为3000。我实际的访问地址为: [http://192.168.99.9:3000](http://192.168.99.9:3000)
+> AdGuardHome安装脚本，
+> 管理端默认地址为操作系统内网IP，默认端口为3000。
+> 我实际的访问地址为: [http://192.168.99.9:3000](http://192.168.99.9:3000)
 
 ## 去广告规则
 ### HalfLifeList
